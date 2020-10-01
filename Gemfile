@@ -11,7 +11,6 @@ gem 'mysql2', '>= 0.4.4'
 
 gem 'puma', '~> 3.1.1
 
-
 # Use SCSS for stylesheets
 gem 'sass-rails', '>= 6'
 # Transpile app-like JavaScript. Read more: https://github.com/rails/webpacker
